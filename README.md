@@ -1,6 +1,6 @@
 <main align="center">
   <div>
-    <h2>Hey, i'm &lt;Isaque Costa/&gt; 💻</h2>
+    <h2>Hey, I'm &lt;Isaque Costa/&gt; 💻</h2>
     <p align="justify">
     I'm a web developer full-stack developer passionate about creating web applications. I'm currently pursuing a degree in <strong>Information Systems</strong> at the <strong>Federal University of Acre (UFAC)</strong>, where I'm honing my skills and knowledge in modern development technologies. I'm always eager to learn something new and explore different technologies to improve my skills and deliver the best possible solutions. I love turning ideas into functional products. When I'm not coding, I'm learning about new technologies and exploring new ways to optimize system performance!
     </p>
