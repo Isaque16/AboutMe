@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=transparent" alt="TypeScript" />
     <img src="https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=" alt="React" />
     <img src="https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=node.js&logoColor=6cc24a" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=transparent" alt="Python" />
+    <img src="https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=transparent" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=c9510c" alt="Git"/>
   </div>
   
   <div align="center">
@@ -33,7 +37,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Isaque16&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=en" alt="Github" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isaque16&theme=dark&hide_border=true&locale=en" alt="Github" />
       <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque16&theme=dark&show_icons=true&hide_border=true&layout=compact&locale=en" alt="GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque16&theme=dark&show_icons=true&hide_border=true&layout=donut&locale=en" alt="GitHub" />
     </div>
   </div>
 </main>
