@@ -10,14 +10,15 @@
   <div align="center">
     <h3 align="center">Tecnologies</h3>
     <img src="https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=00afe1" alt="CSS3" />
+    <img src="https://img.shields.io/badge/SCSS-101010?style=for-the-badge&logo=sass&logoColor=transparent" alt="SCSS" />
     <img src="https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=transparent" alt="TypeScript" />
     <img src="https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=" alt="React" />
     <img src="https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=node.js&logoColor=6cc24a" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=transparent" alt="Python" />
+    <img src="https://img.shields.io/badge/tRPC-101010?style=for-the-badge&logo=trpc&logoColor=transparent" alt="tRPC" />
+    <img src="https://img.shields.io/badge/Prisma-101010?style=for-the-badge&logo=prisma&logoColor=transparent" alt="Prisma" />
     <img src="https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=transparent" alt="MongoDB" />
     <img src="https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Git-101010?style=for-the-badge&logo=git&logoColor=c9510c" alt="Git"/>
+    <img src="https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=transparent" alt="Python" />
   </div>
   
   <div align="center">
